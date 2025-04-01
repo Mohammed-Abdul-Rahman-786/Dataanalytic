@@ -1,1 +1,2 @@
 hello from file2.txt
+file2.txt had been modified.
